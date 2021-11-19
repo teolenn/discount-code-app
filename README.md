@@ -66,7 +66,7 @@ The database comes empty but the table called `brand_codes` that is used for the
 The brand wants to create X number of discount codes.
 It is to only be used by a client of a brand (company or organisation).
 
-If runnung localy se more documentation and test the endpoint at:</br>
+If runnung locally se more documentation and test the endpoint at:</br>
 http://0.0.0.0:8085/docs#/default/read_item_generate_code__post
 
 If runnung via docker se more documentation and test the endpoint at:</br>
@@ -77,7 +77,7 @@ http://127.0.0.1/docs#/default/read_item_generate_code__post
 A user of the system gets a discount code. The code a user gets is a randomised code from the database that a brand has requested creating.
 It is to only be used by a client of a user (person).
 
-If runnung localy se more documentation and test the endpoint at:</br>
+If runnung locally se more documentation and test the endpoint at:</br>
 http://0.0.0.0:8085/docs#/default/read_item_get_code_for_brand__brand__get
 
 If runnung via docker se more documentation and test the endpoint at:</br>

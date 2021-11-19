@@ -70,6 +70,7 @@ If runnung localy se more documentation and test the endpoint at:</br>
 http://0.0.0.0:8085/docs#/default/read_item_generate_code__post
 
 If runnung via docker se more documentation and test the endpoint at:</br>
+http://127.0.0.1/docs#/default/read_item_generate_code__post
 
 #### 2. Fetch a discount code
 
@@ -79,6 +80,8 @@ It is to only be used by a client of a user (person).
 If runnung localy se more documentation and test the endpoint at:</br>
 http://0.0.0.0:8085/docs#/default/read_item_get_code_for_brand__brand__get
 
+If runnung via docker se more documentation and test the endpoint at:</br>
+http://127.0.0.1/docs#/default/read_item_get_code_for_brand__brand__get
 
 
 ## Future work

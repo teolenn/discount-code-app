@@ -101,6 +101,7 @@ If the project was to be given more time the following would at least have been 
 - Setting up the database in a stand alone setup, eg with docker compose. 
 - Using uniqe ids for the tuples in the database, that are related to the databases of the rest of the already implemented system.
 - Have choosed SQL because the data is structured but can consider a non relational database due to its scalability benefits.
+- Closing the database connection after each usage.
 
 #### Class - Object oriented
 - Creating classes of the objects represented in the code. Eg the respons to the client that is using the endpoints.
